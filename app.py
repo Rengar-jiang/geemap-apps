@@ -1,6 +1,7 @@
 import streamlit as st
 import geemap.foliumap as geemap
 
+
 st.set_page_config(layout="wide")
 
 # Customize the sidebar
